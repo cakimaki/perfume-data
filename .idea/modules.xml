@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/notinoApp/notinoApp.iml" filepath="$PROJECT_DIR$/notinoApp/notinoApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/perfume-data.iml" filepath="$PROJECT_DIR$/.idea/perfume-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/perfume-data.iml" filepath="$PROJECT_DIR$/.idea/modules/perfume-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/perfume-data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/perfume-data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/perfume-data.test.iml" filepath="$PROJECT_DIR$/.idea/modules/perfume-data.test.iml" />
     </modules>
   </component>
 </project>
